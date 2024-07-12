@@ -83,6 +83,8 @@ You need to be root or in the lp group
 
 ### 2.1. Installation
 
+On NixOS checkout the [`phomemo.nix`](./phomemo.nix) as a reference.
+
 On Debian you can have to install cups:
 ```
   $ sudo apt-get update
